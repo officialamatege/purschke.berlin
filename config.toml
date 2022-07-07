@@ -1,56 +1,57 @@
 theme = "showfolio"
 languageCode = "en-us"
 baseurl = "https://purschke.berlin"
-title = "purschke.berlin"
-
+title = "Johannes Purschke"
 
 [params]
   name = "purschke.berlin"
-  description = "Johannes Purschkes Portfolio"
+  description = "Johannes Purschke - Portfolio"
   author = "Johannes Purschke"
   authorEmail = "johannes@purschke.berlin"
-  authorImage = "/photo.png"
+  authorImage = "/images/memoji_icon.png"
   autoDarkMode = true
 
   copyright = "Copyright © 2022 - Johannes Purschke · All rights reserved"
-  favicon = "favicon.ico"
+  # favicon = "/images/favicon/favicon.ico"
 
 [params.homepage]
-  title = "Hey 👋 I'm John Doe"
-  tagline = "UX Designer and Product Lead"
-  description = "Develop functional user interfaces and provide a valuable experience to customers."
-  contact = "https://twitter.com/"
+  title = "Hallo 👋🏾  Ich bin Johannes Purschke"
+  tagline = "Cloud- & Netzwerkadministrator"
+  description = "Fachinformatiker für Systemintegration auf der Suche nach einer neuen Herausforderung"
+  contact = "mailto:johannes@purschke.berlin"
 
-[params.homepage.codepen]
-  username = "apvarun"
-  pens = ["MQaRKL", "RxodrP", "BmXGdm", "wdVypQ"]
+#[params.homepage.codepen]
+#  username = "apvarun"
+#  pens = ["MQaRKL", "RxodrP", "BmXGdm", "wdVypQ"]
 
 [params.homepage.resume]
-  skills = ["Visual Design", "Product Development"]
+  skills = ["Netzwerkadministration", "Virtualisierung", "Containerisierung", "Linux", "Proxmox", "Ansible", "Microsoft 365 & Azure", "Windows Server", "Active Directory"]
 
 [[params.homepage.resume.work]]
-  name = "Google"
-  role = "Product Engineer"
-  duration = "Nov 2019 - Apr 2021"
+  name = "Mahr EDV"
+  role = "IT-Systemadministrator"
+  duration = "August 2021 - Juni 2022"
 
 [[params.homepage.resume.work]]
-  name = "Amazon"
-  role = "Sr. UX Designer"
-  duration = "Jan 2016 - Oct 2019"
+  name = "Cine Plus Media Service"
+  role = "IT-Systemadministrator"
+  duration = "September 2019 - Juli 2021"
 
-[[params.homepage.resume.courses]]
-  name = "Design Principles"
-  provider = "UX Academy"
-  duration = "Nov 2019 - Jan 2020"
+[[params.homepage.resume.education]]
+  name = "Ausbildung zum Fachinformatiker für Systemintegration"
+  institution = "OSZ IMT"
+  duration = "September 2019 - Juni 2022"
+
+[[params.homepage.resume.education]]
+  name = "Abitur"
+  institution = "Bröndby-Oberschule"
+  duration = "Jahrgang 2016"
 
 [params.homepage.social]
-  twitter = "https://twitter.com/"
-  linkedin = "https://linkedin.com/in/"
-  github = "https://github.com/"
-  medium = "https://medium.com/"
-  reddit = "https://reddit.com/"
-  dribbble = "https://dribbble.com/"
-
+  linkedin = "https://www.linkedin.com/in/johannespurschke/"
+#  github = "https://github.com/officialamatege"
+  phone = "tel:+4917677904604"
+  mail = "mailto:johannes@purschke.berlin"
 [build]
   writeStats = true
 
