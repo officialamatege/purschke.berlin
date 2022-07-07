@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Johannes Purschke</title>
+    <title>Johannes Purschke on purschke.berlin</title>
     <link>https://purschke.berlin/</link>
-    <description>Recent content on Johannes Purschke</description>
+    <description>Recent content in Johannes Purschke on purschke.berlin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://purschke.berlin/index.xml" rel="self" type="application/rss+xml" />

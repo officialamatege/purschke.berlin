@@ -1,7 +1,7 @@
 theme = "showfolio"
 languageCode = "en-us"
 baseurl = "https://purschke.berlin"
-title = "Johannes Purschke"
+title = "purschke.berlin"
 
 [params]
   name = "purschke.berlin"
